@@ -1,4 +1,4 @@
-source ~/.config/antigen/antigen/antigen.zsh
+source $(brew --prefix)/share/antigen/antigen.zsh
 
 antigen use oh-my-zsh
 
